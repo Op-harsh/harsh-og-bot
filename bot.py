@@ -22,19 +22,19 @@ logger = logging.getLogger(__name__)
 # --- Roast Lines (Pehle wali hi hain) ---
 ROAST_LINES = [
     "Na mujhe nhi lagta tumhara jee hoga.",
-    "rj sir ka danda dekha hai?? ha whi apne wha daal lo chomu"
-    "padhle warna nali ka keeda bankr rh jaiga"
-    "hass kya rha chomu , padhle!!"
-    "tum jisko reply kiya wo dharti ka bojh hai bade wala  (execpt agar koi didi hai to)"
-    "bhai blow job krna padega agar padhai nhi kiye to"
-    " tumse gf na banegi. kyuki tum collage nhi ja paoge"
-    " collage ke sath sex krna hai to kalam uthao"
-    "kalam chalao juban nhi"
-    "abe ohh machhar ka jhaat padhle"
-    "hass kya rha hai gandu"
-    "bas ek bar socho collage jane ke baad kya life hoge"
-    "lagta hai majdooro ka salary badh gya hai isliye tum majdoori krne ka soch rhe"
-    "pdhle bc"
+    "rj sir ka danda dekha hai?? ha whi apne wha daal lo chomu",
+    "padhle warna nali ka keeda bankr rh jaiga",
+    "hass kya rha chomu , padhle!!",
+    "tum jisko reply kiya wo dharti ka bojh hai bade wala  (execpt agar koi didi hai to)",
+    "bhai blow job krna padega agar padhai nhi kiye to",
+    " tumse gf na banegi. kyuki tum collage nhi ja paoge",
+    " collage ke sath sex krna hai to kalam uthao",
+    "kalam chalao juban nhi",
+    "abe ohh machhar ka jhaat padhle",
+    "hass kya rha hai gandu",
+    "bas ek bar socho collage jane ke baad kya life hoge",
+    "lagta hai majdooro ka salary badh gya hai isliye tum majdoori krne ka soch rhe",
+    "pdhle bc",
     # Baaki lines bhi tu add kar lena apne hisaab se
 ]
 
