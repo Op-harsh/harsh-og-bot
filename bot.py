@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ChatPer
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
 # --- Configuration ---
-BOT_TOKEN = "8544305886:AAE7jygimPTv555IPuTeqv91sRMTgTF1_yo"
+BOT_TOKEN = "8787373138:AAF8DYw6_29_6Y_L4jRHU8uZTmhZg-L0G4o"
 HARSH_USER_ID = 8483875806
 
 MAX_DAILY_MESSAGES = 100
